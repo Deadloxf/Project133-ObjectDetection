@@ -1,0 +1,25 @@
+.header {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(0, 42, 158);
+}
+
+body {
+    background-size: 17in;
+    background-position: center;
+}
+
+.link {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    background: rgb(175, 177, 199);
+    border-radius: 7px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 40px;
+    text-decoration: underline;
+}
